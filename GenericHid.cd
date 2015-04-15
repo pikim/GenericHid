@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="GenericHid.Debugging" Collapsed="True">
+    <Position X="0.5" Y="0.5" Width="2.6" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Nested Types" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="GenericHid.DeviceManagement" Collapsed="True">
+    <Position X="0.5" Y="1.5" Width="3.4" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="True" />
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+      <Compartment Name="Nested Types" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="GenericHid.FileIo" Collapsed="True">
+    <Position X="0.5" Y="2.4" Width="1.9" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="GenericHid.HidDevice" Collapsed="True">
+    <Position X="0.5" Y="3.4" Width="3.2" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="True" />
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+      <Compartment Name="Events" Collapsed="True" />
+      <Compartment Name="Nested Types" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="GenericHid.Hid" Collapsed="True">
+    <Position X="0.5" Y="4.4" Width="2.9" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="True" />
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+      <Compartment Name="Nested Types" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="GenericHid.HidReport" Collapsed="True">
+    <Position X="0.5" Y="5.3" Width="1.6" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="True" />
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+</ClassDiagram>
